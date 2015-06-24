@@ -1,4 +1,4 @@
-#!usr/share/python
+#!/usr/bin/env python 
 from colorama import init
 from colorama import Fore, Back, Style
 from termcolor import colored
