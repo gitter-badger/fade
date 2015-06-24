@@ -3,7 +3,7 @@
 """Fade
 
 """
-from scripts.main import Fade 
+from source.scripts.fade import Fade 
 
 if __name__ == "__main__":
 	app = Fade()
