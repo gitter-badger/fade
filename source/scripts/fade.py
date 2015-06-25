@@ -20,12 +20,12 @@ class Fade(object):
 # Show the banner header
 def banner():
 
-	print(Fore.CYAN + "  _______          _       ")
-	print" (_______)        | |        "
-	print"  _____  ____   _ | |  ____  "
-	print" |  ___)/ _  | / || | / _  ) "
-	print" | |   ( ( | |( (_| |( (/ /  "
-	print" |_|    \_||_| \____| \____) "
+	print(Fore.YELLOW + "\t  _______          _       ")
+	print"\t (_______)        | |        "
+	print"\t  _____  ____   _ | |  ____  "
+	print"\t |  ___)/ _  | / || | / _  ) "
+	print"\t | |   ( ( | |( (_| |( (/ /  "
+	print"\t |_|    \_||_| \____| \____) "
 
 banner()
                     
