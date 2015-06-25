@@ -6,6 +6,7 @@ import os
 from colorama import *
 init()
 
+# Class to run fade 
 class Fade(object):
 	port = 8888
 	address = 'http://127.0.0.1'
@@ -16,6 +17,7 @@ class Fade(object):
 		
 # subprocess.call('clear', shell=True)
 
+# Show the banner header
 def banner():
 
 	print(Fore.CYAN + "  _______          _       ")

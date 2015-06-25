@@ -19,6 +19,8 @@ print(colored('Hello, World!', 'green', 'on_red'))
 #Back: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE, RESET.
 #Style: DIM, NORMAL, BRIGHT, RESET_ALL
 
+# Color scheme's
+
 ESC [ 0 m       # reset all (colors and brightness)
 ESC [ 1 m       # bright
 ESC [ 2 m       # dim (looks same as normal brightness)

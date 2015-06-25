@@ -7,5 +7,6 @@ and fast ICMP Flood Attacks, high powered DDOS Attacks, and much more!
 """
 from source.scripts.fade import Fade 
 
+# Run fade
 if __name__ == "__main__":
 	app = Fade()
