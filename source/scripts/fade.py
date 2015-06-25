@@ -7,13 +7,14 @@ from colorama import *
 init()
 
 class Fade(object):
-	"""docstring for Fade"""
-	def __init__(self, arg):
-		self.host = 'http://127.0.0.1/'
-		
-	
+	port = 8888
+	address = 'http://127.0.0.1'
 
-subprocess.call('clear', shell=True)
+	def __init__(self, port, address):
+		self.port = port
+		self.address = address
+		
+# subprocess.call('clear', shell=True)
 
 def banner():
 
