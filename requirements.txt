@@ -1,0 +1,2 @@
+Colorama==0.3.3
+Flask==0.10.1

@@ -3,7 +3,7 @@ Currently still in beta, v [0.0.1]
 
 ### Install Fade
 ```
-root@abrrupt:~# sudo pip install -r requirements.txt
+root@abrrupt:~# pip install -r requirements.txt
 ```
 ### Run Fade
 ```
