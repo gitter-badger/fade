@@ -1,5 +1,5 @@
 ### Fade
-Currently still in beta, v [0.0.1] 
+Currently still in beta, v0.0.1
 
 ### Install Fade
 ```
