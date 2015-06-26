@@ -10,7 +10,7 @@ root@abrrupt:~# pip install -r requirements.txt
 root@abrrupt:~# cd Desktop
 root@abrrupt:~# cd fade
 root@abrrupt:~# ls
-README.md	fade		source
+README.md		fade		requirements.txt	source
 root@abrrupt:~# ./fade
   _______          _       
  (_______)        | |        
