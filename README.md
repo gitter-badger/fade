@@ -1,4 +1,6 @@
 ### Fade
+
+[![Join the chat at https://gitter.im/Abrupt/fade](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Abrupt/fade?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Currently still in beta, v0.0.1
 
 ### Install Fade
